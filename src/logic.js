@@ -1,4 +1,4 @@
-import { allocations } from './stage'
+import { stage } from './stage'
 
 export const logic = ($message) => {
     return new Promise((resolve, reject) => {
